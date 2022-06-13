@@ -22,13 +22,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281325898084','6281325898084','6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281325898084' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62821464339681','62821464339681','62821464339681'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['62821464339681'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '62821464339681' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'MilkStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'MilkBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'Erzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = -Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'MilkBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
