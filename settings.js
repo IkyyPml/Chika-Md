@@ -22,13 +22,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['62821464339681','62821464339681','62821464339681'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['62821464339681'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '62821464339681' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281325898084','6281325898084','6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281325898084' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Erzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'ErzzBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = 'MilkStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'MilkBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'ErzzBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© ErzzBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Erzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© MilkBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'MilkStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
