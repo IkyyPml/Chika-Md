@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281325898084','6281325898084','6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281325898084'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281325898084' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281391681209','6281391681209','6281391681209'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281391681209'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281391681209' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'MilkStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'MilkBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ErzzBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KeyStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ULTRAMEN-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ULTRAMEN' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© MilkBot-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'MilkStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ULTRAMEN-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'KeyStore' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
